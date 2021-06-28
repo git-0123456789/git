@@ -1,6 +1,4 @@
 texto 1
+texto 2
 texto 3
-nuevo texto
-nuevo texto
-nuevo texto
-nuevo texto
+texto 4
